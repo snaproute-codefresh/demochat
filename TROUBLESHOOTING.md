@@ -9,3 +9,4 @@ Let's Chat requires Node.JS version ```0.10.x``` or ```0.12.x```. You will have 
 #### Do I need MongoDB running?
 
 Yes. Please refer to [MongoDB's documentation](http://docs.mongodb.org/manual/).
+
